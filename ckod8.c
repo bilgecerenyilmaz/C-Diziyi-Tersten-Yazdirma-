@@ -1,7 +1,3 @@
-/*isim:Bilge Ceren Yilmaz
-No:10658469302
-Soru 2
-Vs 2022 ile yapildi*/
 #include <stdio.h>
 #include <stdlib.h>
 //diziyi ters sirada yazdirma
